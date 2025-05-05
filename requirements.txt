@@ -1,0 +1,3 @@
+pip install tensorflow
+pip install flask
+pip install Pillow
